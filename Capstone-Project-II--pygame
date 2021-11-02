@@ -1,0 +1,6 @@
+Make a simple game using the pygame libary. Your game should include:
+- One 'player' object. You should be able to move the player around the screen by using the up,
+down, left and right arrow keys an your keyboard to move the player.
+- At least 3 'enemy' objects. The enemies should all move across the screen from different position.
+If the player collids with any enemy objects. They lose and the game ends.
+- At least 1 'prize' object. If the player object collids with the prize object, they win and the game ends.
